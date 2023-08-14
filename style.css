@@ -12,13 +12,14 @@ body {
   font-family: 'Source Code Pro', monospace;
   font-size: 10px;
   color: #fff;
-  background-color: #282c34;
+  background-color: #452c63;
 }
 
 .top-bar {
-  background-color: #6b6e73;
+  background-color: #28184f;
   color: #fff;
   padding: 0px 0;
+  border-radius: 10px;
 }
 
 .top-bar-content {
@@ -42,7 +43,7 @@ body {
 }
 
 .navigation li a:hover {
-  color: #9fa2a8;
+  color: #8b008b;
 }
 
 .content {
@@ -68,7 +69,8 @@ main {
   cursor: pointer;
   display: block;
   width: 150px;
-  background-color: #9fa2a8;
+  background-color: #7c478c;
+  border-radius: 10px;
 }
 
 .project:hover {
